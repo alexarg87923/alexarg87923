@@ -11,8 +11,8 @@ Below youâ€™ll find some of the languages, technologies, tools, and services Iâ€
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5722?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arguellesalex)
-[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business@alex-arguelles.com)
+[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://www.alex-arguelles.com)
 
 </div>
 
